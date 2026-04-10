@@ -19,7 +19,7 @@ No Ads Manager gymnastics. No spreadsheet exports. No waiting for reports to loa
 
 <!-- Replace VIDEO_URL_HERE with your GitHub-hosted .mp4 URL (see main README for instructions) -->
 
-https://github.com/user-attachments/assets/ca602a93-6b21-42a5-b0e1-d4e88c50558a
+https://github.com/user-attachments/assets/cce78504-abce-40d1-b596-a5492c2a7510
 
 > 🎥 _Can't see the video? [Watch on YouTube →](https://www.youtube.com/watch?v=6hlniC2l7bw)_
 
